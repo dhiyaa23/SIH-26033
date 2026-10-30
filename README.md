@@ -48,12 +48,13 @@ AgriConnect will be developed as a web application using basic web technologies,
 The platform will have separate sections for farmers and buyers, where they can register, upload product details, search for products and manage their orders.
 
 Technologies Used:
+
    Component                   Technology
-1. Frontend                 HTML, CSS, JavaScript
-2. Backend                  Python (Flask)
-3. Database                 MySQL
-4. AI/ML                    Python, Pandas, Scikit-learn
-5. Maps                     OpenStreetMap or Google Maps API
+1. Frontend                1. HTML, CSS, JavaScript
+2. Backend                 2. Python (Flask)
+3. Database                3. MySQL
+4. AI/ML                   4. Python, Pandas, Scikit-learn
+5. Maps                    5. OpenStreetMap or Google Maps API
 
 Implementation Steps:
 1. Step 1 – User Registration:
@@ -102,12 +103,12 @@ Business Viability:
 Challenges and Solutions:
 
           Challenges                               Proposed Solutions
-1. Difficulty in finding bulk buyers             AI-based buyer matching
-2. Small quantities of products                  Farmer group formation
-3. Price disagreements                           Market price information
-4. Trust issues between farmers and buyers       Verified user accounts
-5. Delayed payments                              Digital transaction records
-6. Lack of digital knowledge                     Simple interface and regional language suppor
+1. Difficulty in finding bulk buyers             1. AI-based buyer matching
+2. Small quantities of products                  2. Farmer group formation
+3. Price disagreements                           3. Market price information
+4. Trust issues between farmers and buyers       4. Verified user accounts
+5. Delayed payments                              5. Digital transaction records
+6. Lack of digital knowledge                     6. Simple interface and regional language suppor
 
 Overall, AgriConnect is practical to develop as a prototype using the available technologies. It can also be expanded in the future to support more farmers, buyers and agricultural markets
 
