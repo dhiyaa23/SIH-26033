@@ -48,35 +48,35 @@ AgriConnect will be developed as a web application using basic web technologies,
 The platform will have separate sections for farmers and buyers, where they can register, upload product details, search for products and manage their orders.
 
 Technologies Used:
-Component                   Technology
-Frontend                 HTML, CSS, JavaScript
-Backend                  Python (Flask)
-Database                 MySQL
-AI/ML                    Python, Pandas, Scikit-learn
-Maps                     OpenStreetMap or Google Maps API
+   Component                   Technology
+1. Frontend                 HTML, CSS, JavaScript
+2. Backend                  Python (Flask)
+3. Database                 MySQL
+4. AI/ML                    Python, Pandas, Scikit-learn
+5. Maps                     OpenStreetMap or Google Maps API
 
 Implementation Steps:
-Step 1 – User Registration:
+1. Step 1 – User Registration:
 Farmers and buyers can register on the platform by entering their basic details. Separate accounts will be provided for both users.
-Step 2 – Product Listing:
+2. Step 2 – Product Listing:
 Farmers can upload their crop details, including the crop name, quantity, expected price, location and product images.
-Step 3 – Buyer Requirements:
+3. Step 3 – Buyer Requirements:
 Buyers can post the products they need, along with the required quantity, preferred price and delivery location.
-Step 4 – AI-Based Buyer Matching:
+4. Step 4 – AI-Based Buyer Matching:
 The system checks the details provided by farmers and buyers. Based on crop type, quantity, location and price, it suggests suitable buyers to farmers.
-Step 5 – Bulk Order Management:
+5. Step 5 – Bulk Order Management:
 Farmers who have smaller quantities of crops can form groups and combine their products to fulfil large orders.
-Step 6 – Price Comparison and Negotiation:
+6. 7. Step 6 – Price Comparison and Negotiation:
 The platform displays available market price information. Farmers and buyers can compare prices and negotiate before finalising the deal.
 Step 7 – Order Management:
 After an order is confirmed, both the farmer and buyer can view the order details, payment information and delivery progress.
 
 AI Implementation:
--->AI and machine learning can be used in the following ways:
--->To suggest suitable buyers for farmers based on their crop details.
--->To match buyer requirements with available agricultural products.
--->To study previous market prices and identify price trends.
--->To suggest suitable selling prices based on available market information
+1. AI and machine learning can be used in the following ways:
+2. To suggest suitable buyers for farmers based on their crop details.
+3. To match buyer requirements with available agricultural products.
+4. To study previous market prices and identify price trends.
+5. To suggest suitable selling prices based on available market information
 
 ## Feasibility and Viability
 Technical Feasibility:
@@ -86,27 +86,28 @@ These technologies are suitable for developing a web application. AI features li
 Operational Feasibility:
 The platform will have separate interfaces for farmers and buyers, making it easier for them to use the system.
 Simple navigation, regional language support and easy product uploading can help farmers who are not familiar with digital platforms.
-Economic Feasibility
+
+Economic Feasibility:
 The initial version of AgriConnect can be developed using free and open-source tools.
 Since the project does not require expensive infrastructure during the prototype stage, the development cost can be kept low.
 
 Business Viability:
--->AgriConnect can generate revenue through different methods, such as:
--->Charging a small service fee for successful transactions.
--->Providing subscription plans for large-scale buyers.
--->Partnering with Farmer Producer Organizations (FPOs).
--->Offering premium market analysis services.
--->Earning commissions through logistics partnerships.
+1. AgriConnect can generate revenue through different methods, such as:
+2. Charging a small service fee for successful transactions.
+3. providing subscription plans for large-scale buyers.
+4. Partnering with Farmer Producer Organizations (FPOs).
+5. Offering premium market analysis services.
+6. Earning commissions through logistics partnerships.
 
 Challenges and Solutions:
 
-       Challenges                               Proposed Solutions
-Difficulty in finding bulk buyers             AI-based buyer matching
-Small quantities of products                  Farmer group formation
-Price disagreements                           Market price information
-Trust issues between farmers and buyers       Verified user accounts
-Delayed payments                              Digital transaction records
-Lack of digital knowledge                     Simple interface and regional language suppor
+          Challenges                               Proposed Solutions
+1. Difficulty in finding bulk buyers             AI-based buyer matching
+2. Small quantities of products                  Farmer group formation
+3. Price disagreements                           Market price information
+4. Trust issues between farmers and buyers       Verified user accounts
+5. Delayed payments                              Digital transaction records
+6. Lack of digital knowledge                     Simple interface and regional language suppor
 
 Overall, AgriConnect is practical to develop as a prototype using the available technologies. It can also be expanded in the future to support more farmers, buyers and agricultural markets
 
@@ -114,33 +115,33 @@ Overall, AgriConnect is practical to develop as a prototype using the available 
 AgriConnect can be useful for farmers, buyers and society by making agricultural trading easier and more accessible.
 
 Benefits to Farmers:
--->Farmers can directly connect with wholesalers and bulk buyers.
--->Group selling can help them get better bargaining power.
--->They can find more opportunities to sell their products.
--->Their dependency on multiple intermediaries can be reduced.
--->They can check market prices before deciding their selling price.
--->They can reach buyers from different locations.
+1. Farmers can directly connect with wholesalers and bulk buyers.
+2. Group selling can help them get better bargaining power.
+3. can find more opportunities to sell their products.
+4. Their dependency on multiple intermediaries can be reduced.
+5. They can check market prices before deciding their selling price.
+6. They can reach buyers from different locations.
 
 Benefits to Buyers:
--->Buyers can directly connect with farmers.
--->They can easily purchase products in bulk.
--->They can compare products and prices from different farmers.
--->They can communicate with farmers before placing an order.
--->They can find suitable suppliers for their requirements.
+1. Buyers can directly connect with farmers.
+2. They can easily purchase products in bulk.
+3. They can compare products and prices from different farmers.
+4. They can communicate with farmers before placing an order.
+5. They can find suitable suppliers for their requirements.
 
 Benefits to Society:
--->Encourages the use of digital platforms in agriculture.
--->Supports the development of rural areas.
--->Helps strengthen farmer groups and organizations.
--->Makes agricultural markets more transparent.
--->Improves the connection between farmers and buyers.
+1. Encourages the use of digital platforms in agriculture.
+2. Supports the development of rural areas.
+3. Helps strengthen farmer groups and organizations.
+4. Makes agricultural markets more transparent.
+5. improves the connection between farmers and buyers.
 
 Economic Impact:
--->AgriConnect can help improve agricultural trading by.
--->Creating opportunities for farmers to earn better prices.
--->Reducing unnecessary distribution expenses.
--->Providing better market access for small farmers.
--->Making bulk purchasing easier for buyers.
+1. AgriConnect can help improve agricultural trading by.
+2. Creating opportunities for farmers to earn better prices.
+3. Reducing unnecessary distribution expenses.
+4. Providing better market access for small farmers.
+5. Making bulk purchasing easier for buyers.
 
 Long-Term Impact:
 In the long run, AgriConnect aims to create a connected agricultural trading system where farmers can easily find buyers, discuss prices and sell their products without depending too much on intermediaries.
